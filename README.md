@@ -52,6 +52,7 @@ Data Store
 <img width="674" alt="image" src="https://github.com/madhuroopa/Resonate-Meetings-Chat-Bot/assets/22576343/6a64b3ee-4c1a-4e96-a719-6d8a2abc12de">
 
 
+
 Research
 - We would try multiple `Vector embeddings` and also fine-tune `LLM Models`  on the custom dataset and compare the performance of these models.
 ![image](https://github.com/SartajBhuvaji/Resonate/assets/31826483/bd4559b3-780f-428e-ae13-a885008e858f)
@@ -59,9 +60,13 @@ Research
 <img width="729" alt="image" src="https://github.com/madhuroopa/Resonate-Meetings-Chat-Bot/assets/22576343/3f8f557f-8747-4065-aa15-4943df979fe8">
 
 
+
+
 Clustering Framework
 
 <img width="800" alt="image" src="https://github.com/madhuroopa/Resonate-Meetings-Chat-Bot/assets/22576343/2bdfdbef-3e80-417d-b910-157e811c881f">
+
+
 
 
 Proposed UI
