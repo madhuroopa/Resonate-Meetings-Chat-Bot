@@ -48,8 +48,8 @@ Data Store
 - User would upload meetings in audio/video format.
 - We would use `AWS Transcribe` to diarize and transcribe the audio file into `timestamp, speaker, text` (this is simplified)
 - We would embed the text data into vectors that would be uploaded to Pinecone serverless.
-- 
-<img width="674" alt="image" src="https://github.com/madhuroopa/Resonate-Meetings-Chat-Bot/assets/22576343/6a64b3ee-4c1a-4e96-a719-6d8a2abc12de">
+  
+<img width="558" alt="image" src="https://github.com/madhuroopa/Resonate-Meetings-Chat-Bot/assets/22576343/093803db-137b-4275-8d98-d5b003613861">
 
 
 
@@ -58,8 +58,6 @@ Research
 ![image](https://github.com/SartajBhuvaji/Resonate/assets/31826483/bd4559b3-780f-428e-ae13-a885008e858f)
 
 <img width="729" alt="image" src="https://github.com/madhuroopa/Resonate-Meetings-Chat-Bot/assets/22576343/3f8f557f-8747-4065-aa15-4943df979fe8">
-
-
 
 
 Clustering Framework
