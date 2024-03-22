@@ -62,9 +62,8 @@ Research
 
 Clustering Framework
 
-<img width="800" alt="image" src="https://github.com/madhuroopa/Resonate-Meetings-Chat-Bot/assets/22576343/2bdfdbef-3e80-417d-b910-157e811c881f">
 
-
+<img width="551" alt="image" src="https://github.com/madhuroopa/Resonate-Meetings-Chat-Bot/assets/22576343/6265474e-606f-4edf-9abb-aa26c3bcc5f1">
 
 
 Proposed UI
