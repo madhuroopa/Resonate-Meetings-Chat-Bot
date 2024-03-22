@@ -52,6 +52,7 @@ Data Store
 Research
 - We would try multiple `Vector embeddings` and also fine-tune `LLM Models` using `Microsoft DeepSpeed` on the custom dataset and compare the performance of these models.
 ![image](https://github.com/SartajBhuvaji/Resonate/assets/31826483/bd4559b3-780f-428e-ae13-a885008e858f)
+<img width="348" alt="image" src="https://github.com/madhuroopa/Resonate-Meetings-Chat-Bot/assets/22576343/585997d9-77d6-4082-88e0-e51b982c9ca4">
 
 
 Proposed UI
